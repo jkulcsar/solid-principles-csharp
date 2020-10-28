@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP_Second_Example", "OCP_Second_Example\OCP_Second_Example.csproj", "{B17FABB3-452F-45A7-A2EC-81398721C6BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP_Second_Example_Practice", "OCP_Second_Example_Practice\OCP_Second_Example_Practice.csproj", "{2A8278A8-C547-4C5E-A3F9-84363E7AE451}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B17FABB3-452F-45A7-A2EC-81398721C6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B17FABB3-452F-45A7-A2EC-81398721C6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B17FABB3-452F-45A7-A2EC-81398721C6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A8278A8-C547-4C5E-A3F9-84363E7AE451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8278A8-C547-4C5E-A3F9-84363E7AE451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8278A8-C547-4C5E-A3F9-84363E7AE451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8278A8-C547-4C5E-A3F9-84363E7AE451}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
